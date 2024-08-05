@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let bnbPackageVersion: Version = "1.14.1-68-g8184560bc"
+let bnbPackageVersion: Version = "1.14.3-43-gc75a0b291"
 
 let package = Package(
     name: "BNBSkin",
@@ -36,8 +36,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BNBSkin",
-            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.1-68-g8184560bc/BNBSkin.zip",
-            checksum: "949453e88c6cce8ae0347b250b0ebb104edc74b05d09a5531e675371b1af83fa"
+            url: "https://d2cm7wtcqqw29.cloudfront.net/1.14.3-43-gc75a0b291/BNBSkin.zip",
+            checksum: "9c3e8fabebabeab6cafb6680edd40df1585796d041938dccbf9eb6605ab5186e"
         ),
         .target(
             name: "BNBSkin_BNBSdkCore",
