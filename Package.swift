@@ -37,7 +37,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBSkin",
             url: "https://d2cm7wtcqqw29.cloudfront.net/1.16.3/BNBSkin.zip",
-            checksum: "8071c497b35d11fafbbaa8b9137ba0e6d7e44211537d13c1927af7973601a9dc"
+            checksum: "888a918e23d3e9415a390a6659b53b6fad6fde2f6f8d61749ea64e9547e9f3d6"
         ),
         .target(
             name: "BNBSkin_BNBSdkCore",
